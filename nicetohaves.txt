@@ -1,0 +1,4 @@
+Iedere pootje heeft 1000 punten maximaal
+
+In idere game kan je maxaimaal 100 punten behalen
+(de logica voor de games schrijven we wel later en de berekening van de punten ook)

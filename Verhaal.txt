@@ -1,0 +1,38 @@
+ROLLEN:
+
+Developer: Jakub Tyszkiewicz, Yoran Wandels, Arthur Meyfroidt
+Product Owner: Jakub Tyszkiewicz
+Scrum Master: Yoran Wandels
+
+STAP 1: Om de escaperoom te starten, moet je hartslag hoog genoeg zijn (keuze tussen makkelijke en moeilijke modus).
+
+STAP 2: Als aan deze voorwaarde is voldaan, krijg je op de website een reeks in morsecode te zien. In het lokaal zelf vind je ergens een vertalingssleutel.
+
+STAP 3: Het hele team moet een vergelijkbare hartslag hebben (met een marge van ± 20 bps).
+
+STAP 4: Je bevindt je in een doolhof met meerdere uitgangen. Aan het begin krijg je een specifieke uitgang toegewezen waar je naartoe moet navigeren. In het doolhof zijn verschillende delen van een code verstopt. Als je de juiste route volgt, verzamel je onderweg de verschillende codefragmenten. Plaats deze naast elkaar om de volledige code te vormen, waarmee je kunt doorgaan naar de volgende opdracht.
+
+STAP 5: Je krijgt een willekeurig getal op het scherm te zien, dat na een paar seconden verdwijnt. Vervolgens moet je het getal intypen om verder te gaan. Er zijn 10 niveaus, waarbij het aantal cijfers per niveau toeneemt: niveau 1 heeft 1 cijfer, niveau 2 heeft 2 cijfers, enzovoort. Je kunt per niveau 10 punten verdienen, en je moet minstens 70 punten halen om verder te gaan.
+
+STAP 6: Eén speler moet een bepaalde hartslag bereiken en deze minstens 30 seconden vasthouden om een tijdgebonden slot te openen.
+Uitvoering: De speler kan oefeningen doen om de hartslag op het juiste niveau te houden, zoals sprinten ter plaatse. Als de hartslag onder het minimum zakt, begint de timer opnieuw.
+
+STAP 7: Gebruik afbeeldingen of objecten in de kamer om verborgen cijfers te onthullen. Bijvoorbeeld: aan de muur hangt een afbeelding van gummyberen in verschillende kleuren. Er zijn 6 rode, 2 oranje, 4 gele, 5 groene en 4 witte gummyberen. Als ergens in de kamer een aanwijzing te vinden is met de tekst "Groene Beren," moeten de spelers het aantal groene beren (5) tellen. Dit getal kan vervolgens deel uitmaken van een code voor een cijferslot.
+
+STAP 8: Een puzzel met een code op de achterkant, die je kunt gebruiken om door te gaan naar de volgende opdracht.
+
+STAP 9: Teamwerk Hartslaggemiddelde
+
+Doel: Het hele team moet een specifiek hartslaggemiddelde bereiken en vasthouden om een toegangspoort te openen.
+Uitvoering: Sommige spelers moeten hun hartslag verhogen, terwijl anderen die juist moeten verlagen, afhankelijk van hun huidige niveau. Het gemiddelde moet vervolgens enkele seconden stabiel blijven.
+STAP 10: Rusthartslag Doelstelling
+
+Doel: Na een intensieve uitdaging moeten spelers hun hartslag terugbrengen naar een lage rusthartslag (bijvoorbeeld onder de 70) om een slot te openen.
+Uitvoering: Spelers kunnen rustgevende ademhalingsoefeningen doen of mediteren om hun hartslag te verlagen.
+
+EINDE: Scorebord om jezelf te registreren als gebruiker, indien gewenst.
+
+Puntensysteem:
+Maximale Score per Onderdeel: Elk onderdeel (ook wel een “pootje”) van de escaperoom heeft een maximale score van 1000 punten.
+Maximale Score per Spel: In elk spel kan een speler maximaal 100 punten behalen.
+Logica en Puntentelling: De logica voor de spellen en de berekening van de punten wordt later uitgewerkt.
