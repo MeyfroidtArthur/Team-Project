@@ -1,0 +1,14 @@
+Escape game opdracht ideeën: 
+•	Hartslag aanpassen om nummer te kiezen
+    o	Bv:  60 is de laagste en 180 is de hoogste hartslag, nummer 0 = 60 , 1 = 70, 2 = 80, 3 = 90, 4 = 100, 5 = 110, 6 = 120,  7= 130, 8 = 140, 9 = 160,  10 = 180. Om dan de keuze te maken duw je op een knop om de nummer te selecteren
+•	Raadsel oplossen maar je kan het alleen zien als iemand een hartslag heeft boven 160
+•	Een donkere kamer en 1 iemand moet bezig zijn om het licht aan te houden
+•	Een hartslag hebben tussen een bepaald waarde om een deur open te houden
+•	Het hele team moet een even snelle hartslag hebben
+•	Een balk opladen door allemaal actief te zijn in dien niet actief daalt het
+•	Morscode met hartslag
+•	Spelers moeten ontbrekende toetsen vinden om het toetsenbord te voltooien en het wachtwoord in te voeren.
+•	Delen van een wachtwoord zoeken en in de juiste volgorde zetten de delen zijn verspreid over de ruimte.
+•	Een opdracht op waterflessen.
+•	Een doolhof met verschillende delen van codes doe je de juiste weg dan heb je de juiste code.
+
