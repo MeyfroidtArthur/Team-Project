@@ -56,14 +56,14 @@ MAX: 100 punten
 Hoe sneller het team de hartslag kan stabiliseren, hoe meer punten ze krijgen.
 STAP 4:
 MAX: 100 punten
-
 Hoe sneller het team het doolhof kan oplossen, hoe meer punten ze krijgen.
-STAP 5:
-MAX: 100 punten
 
-Elke foutloze poging: 10 punten per niveau (max. 100 punten)
-Vereiste score om door te gaan: 70 punten
-Toelichting: Snelheid en geheugen worden getest. Bij elke succesvolle poging verdienen spelers punten tot het maximum.
+STAP 5:
+Maximale score: 100 punten
+Punten per foutloze poging: 10 punten per niveau, tot een maximum van 100 punten
+Minimale vereiste score om door te gaan: 70 punten
+Let op: Als u minder dan 70 punten behaalt, krijgt u geen punten.
+
 STAP 6:
 MAX: 100 punten
 
